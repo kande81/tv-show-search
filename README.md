@@ -11,3 +11,5 @@ Techonogies used are:
 - api
 - axios
 - DOM manipulation
+
+You can try it live on [Github Pages](https://kande81.github.io/tv-show-search/)
